@@ -275,46 +275,6 @@ HTML/CSS/JavaScript Frontend
         ▼
 Prediction
 ```
-
----
-
-# 📸 Screenshots
-
-Add screenshots here.
-
-### Home Page
-
-```
-assets/home.png
-```
-
-### Prediction
-
-```
-assets/prediction.png
-```
-
-### Swagger Docs
-
-```
-assets/swagger.png
-```
-
----
-
-# 🔮 Future Improvements
-
-* Docker Support
-* Authentication
-* Dark/Light Theme
-* More ML Models
-* Explainable AI (SHAP)
-* Model Monitoring
-* Cloud Database
-* User History
-* CI/CD Pipeline
-* Batch Prediction
-
 ---
 
 # 📦 Requirements
